@@ -297,7 +297,7 @@ VP,Vacuum-packed,
 VQ,"Bulk, liquefied gas (at abnormal temperature/pressure) ",
 VN,Vehicle,A self-propelled means of conveyance.
 VR,"Bulk, solid, granular particles (ÒgrainsÓ) ",
-VS,"Bulk, scrap metal",Loose or unpacked scrap metal transported in bulk form. 
+VS,"Bulk",
 VY,"Bulk, solid, fine particles (ÒpowdersÓ)",
 WA,Intermediate bulk container,"A reusable container made of metal, plastic, textile, wood or composite materials used to facilitate transportation of bulk solids and liquids in manageable volumes."
 WB,Wickerbottle ,
@@ -376,3 +376,8 @@ ZW,"Intermediate bulk container, natural wood",
 ZX,"Intermediate bulk container, plywood",
 ZY,"Intermediate bulk container, reconstituted wood",
 ZZ,Mutually defined ,
+13,"Flexible IBC for solids, filled or discharged by gravity (liquids and solids under pressure [>0.1 bar] are not permitted)",
+13H1,"Woven PP fabric without coating or inner liner",
+13H2,"Woven PP fabric, coated",
+13H3,"Woven PP fabric with inner liner",
+13H4,"Woven PP fabric, coated and with inner liner",
