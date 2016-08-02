@@ -2,7 +2,7 @@ Code,Name,Description
 1A,"Drum, steel",
 1B,"Drum, aluminium",
 1D,"Drum, plywood",
-1F,"Container, flexible",A packaging container of flexible construction.
+1F,"Container, flexible","A packaging container of flexible construction."
 1G,"Drum, fibre",
 1W,"Drum, wooden",
 2C,"Barrel, wooden",
